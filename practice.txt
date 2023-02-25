@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main()
+{
+
+	std::cout<<"Basic C++ code for practice"<<std::endl;
+	return 0l
+}
